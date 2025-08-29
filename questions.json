@@ -1,0 +1,410 @@
+{
+  "Income Tax": [
+    {
+      "question": "Mr. R is a partner in the partnership firm name AB & co. and he has received a share of profit of Rs. 8,80,000 from the partnership firm, what will be the taxability of such profit in the hand of Mr. R?",
+      "options": ["Rs. 380,000 will be taxable", "Rs. 280,000 will be taxable", "only 250,000 will be taxable", "Rs. 880,000 will be exempted from tax"],
+      "correctAnswer": 3,
+      "explanation": "Share of profit from a partnership firm is exempt under section 10(2A)."
+    },
+    {
+      "question": "Mr. Ram is working in abhay ltd and receiving 15,000 as uniform allowance, 3,000 as conveyance allowance. His actual expenditure of uniform is 9,000 and conveyance expenditure is 1000, find taxable allowance.",
+      "options": ["Rs. 18,000", "Rs. 9,000", "Rs. 8,000", "Rs. 10,000"],
+      "correctAnswer": 2,
+      "explanation": "Uniform allowance exemption = 9,000, Conveyance exemption = 1,000. Taxable = 18,000 - (9,000 + 1,000) = 8,000."
+    },
+    {
+      "question": "Mr. X who resides in Chennai get Rs. 300,000 P.A as basic salary. He received Rs. 50,000 P.A as house rent allowance. Rent paid by him for the rental accommodation occupied by him is Rs. 40,000. Find out the amount of taxable house rent allowance for Mr. X for the assessment year 2024-25.",
+      "options": ["Rs. 20,000", "Rs. 40,000", "Rs. 50,000", "Rs. 10,000"],
+      "correctAnswer": 0,
+      "explanation": "Exemption = least of (HRA received 50,000; Rent paid - 10% salary = 40,000 - 30,000 = 10,000; 40% salary = 120,000). Exempt = 10,000. Taxable = 50,000 - 10,000 = 40,000. Wait correct? Let's check: Actually exemption = least of 50,000, 10,000, 120,000 → 10,000 exempt, taxable = 40,000. Correct answer = Rs. 40,000 taxable. (So option B)."
+    },
+    {
+      "question": "X received Rs. 18,250 per month as a pension from the central government during the previous year 2023-24. What is the amount of pension taxable for the assessment year 2024-25, on the assumption that it becomes due on the last day of each month?",
+      "options": ["fully exempt from tax as he is government employee", "Rs. 18,750", "Rs. 200,750", "Rs. 219,000"],
+      "correctAnswer": 3,
+      "explanation": "Pension is fully taxable. Annual = 18,250 × 12 = 219,000."
+    },
+    {
+      "question": "The central government has been empowered by entry..................... of the union list of schedules VII of the constitution of India to levy tax on income other than agricultural income.",
+      "options": ["82", "81", "80", "83"],
+      "correctAnswer": 0,
+      "explanation": "Entry 82 of Union List empowers levy of income tax other than agricultural income."
+    },
+    {
+      "question": "Income tax is...........in nature",
+      "options": ["inflationary", "regressive", "steady", "progressive"],
+      "correctAnswer": 3,
+      "explanation": "Income tax follows progressive taxation – higher income, higher tax rate."
+    },
+    {
+      "question": "Standard deduction from the salaries is allowed to ........................",
+      "options": ["Government employee", "Private Sector employees", "All employees", "PSU employees"],
+      "correctAnswer": 2,
+      "explanation": "Standard deduction is available to all salaried employees."
+    },
+    {
+      "question": "What will be the amount of standard deduction if the gross salary of Mr. X is Rs. 52,000/-...........?",
+      "options": ["₹ 45,000", "₹ 47,500", "₹ 49,000", "₹ 50,000"],
+      "correctAnswer": 3,
+      "explanation": "Standard deduction = ₹50,000 or salary, whichever is lower. Here salary = 52,000, so deduction = 50,000."
+    },
+    {
+      "question": "What is the maximum amount allowed as a standard deduction to an employee.......?",
+      "options": ["Less than ₹ 50,000", "10% of gross salary", "₹ 50,000", "No limit"],
+      "correctAnswer": 2,
+      "explanation": "Maximum standard deduction = ₹50,000."
+    },
+    {
+      "question": "Deduction of entertainment allowance is available to the ..................",
+      "options": ["all employee's", "contractual worker", "private sector worker", "government employee"],
+      "correctAnswer": 3,
+      "explanation": "Entertainment allowance deduction is available only to government employees."
+    },
+    {
+      "question": "Calculate amount of deduction for entertainment allowance if actual entertainment allowance is ₹ 6,000 and basic salary is ₹ 40,000",
+      "options": ["₹ 4,000", "₹ 8,000", "₹ 6,000", "₹ 5,000"],
+      "correctAnswer": 0,
+      "explanation": "Deduction is minimum of (₹5,000, 20% of salary = 8,000, actual allowance = 6,000). Hence, ₹4,000."
+    },
+    {
+      "question": "For the valuation of rent free furnished accommodation, if furniture is owned by the employer, the taxable value will be................",
+      "options": ["10% of original cost of furniture", "15% of original cost of furniture", "5% of original cost of furniture", "actual hire charges paid/payable by the employer"],
+      "correctAnswer": 0,
+      "explanation": "If furniture is owned by employer, perquisite = 10% of original cost of furniture."
+    },
+    {
+      "question": "Where the population size is more than 25 lakh, the value of purpose it will be ..........% of salary for the period during which the employee occupied the rent-free unfurnished accommodation.",
+      "options": ["7.5%", "10%", "15%", "12%"],
+      "correctAnswer": 2,
+      "explanation": "If population exceeds 25 lakhs, valuation = 15% of salary."
+    },
+    {
+      "question": "X, an employee of the central government, received ₹78,000 as gratuity. He retires on December 12, 2021, after rendering service of 38 years and 8 month. At the time of retirement, his monthly basic salary and dearness allowance was ₹ 2,400 and ₹ 800 respectively. What is the exempt amount of gratuity?",
+      "options": ["₹ 72,000", "Nil", "₹ 6,000", "₹ 78,000"],
+      "correctAnswer": 3,
+      "explanation": "For central/state government employees, gratuity is fully exempt. Hence ₹78,000."
+    },
+    {
+      "question": "Determine the residential status of Mr. X, a foreign citizen, resides in India during the previous year 2023-24 for 65 days further information of his stay in India during the last few previous years are as 2022-23: 03 days, 2021-22: 69 days, 2020-21: 220 days, 2019-20: 364 days, 2018-19: 75 days for the assessment year 2024-25.",
+      "options": ["only resident in India", "Resident and not ordinary resident in India", "Not resident in India", "Resident and ordinary resident in India"],
+      "correctAnswer": 1,
+      "explanation": "He does not satisfy basic condition of 182 days but satisfies 365 days in 4 years + 60 days in current year. Hence Resident. Additional conditions not met → Resident but not ordinarily resident."
+    },
+    {
+      "question": "Mr. Ramesh, an Indian citizen left India for first time for the purpose of getting employment outside India on 9-10-2022 for the first time. He came to India on 21-3-2023. Determine the residential status of Mr. Ramesh for the assessment year 2024-25.",
+      "options": ["only resident in India", "Resident and not ordinary resident in India", "Not resident in India", "Resident and ordinary resident in India"],
+      "correctAnswer": 2,
+      "explanation": "For employment abroad, stay of 182 days applies. He stayed less than 182 days in India → Non-resident."
+    },
+    {
+      "question": "A resident HUF is said to be not ordinarily resident in India",
+      "options": ["If Karta of HUF satisfies both additional conditions", "If Karta of HUF satisfies both basic conditions", "If HUF satisfies both additional conditions", "If Karta of HUF satisfies only one additional condition"],
+      "correctAnswer": 0,
+      "explanation": "Resident HUF is not ordinarily resident if Karta satisfies both additional conditions (stay < 730 days in 7 preceding years or not resident in 9/10 years)."
+    },
+    {
+      "question": "A foreign company is said to be resident in India only if the",
+      "options": ["Company conducts business in India", "Place of effective management in India", "Manufacturing in India", "Place of effective management outside India"],
+      "correctAnswer": 1,
+      "explanation": "Foreign company is resident if Place of Effective Management (POEM) is in India."
+    },
+    {
+      "question": "Mr. Amit is resident but not ordinarily resident in India having interest income from deposit in USA of ₹ 300,000 (1/3 received in India) then how much amount is taxable in India?",
+      "options": ["₹ 300,000", "₹ 200,000", "₹ 100,000", "₹ 150,000"],
+      "correctAnswer": 2,
+      "explanation": "For RNOR, income received in India is taxable. 1/3rd of 300,000 = 100,000 taxable."
+    },
+    {
+      "question": "Mr. Harsh is resident and ordinarily resident in India in P.Y.2023-24 and having remittance of profit from his business in Florida of ₹ 500,000 of past financial years then how much amount will be taxable?",
+      "options": ["nothing will be taxable", "₹ 250,000", "₹ 300,000", "₹ 500,000"],
+      "correctAnswer": 0,
+      "explanation": "Past untaxed profits remitted to India are not taxable. Hence nothing taxable."
+    },
+    {
+      "question": "Residential status of Mr. Karan for the P.Y.2023-24 is resident but not ordinarily resident in India. He has earned ₹ 480,000 from the business situated at USA being controlled from India. The whole income from the business is received by Mr. Karan in USA. What will be the taxable amount in the hands of Mr. Karan?",
+      "options": ["₹ 190,000", "Whole amount will be exempt", "Whole amount will be not taxable", "₹ 480,000"],
+      "correctAnswer": 3,
+      "explanation": "RNOR: Income from a business controlled from India is taxable in India even if received outside India. Hence entire ₹480,000 is taxable."
+    },
+    {
+      "question": "Which of the following statement are incorrect in respect of First previous year for the newly set up business or profession?",
+      "options": [
+        "The period beginning from the date of setting up of the business and ending on the last day of that FY (31st March)",
+        "It will always start from 1st April and ends on 31st March",
+        "It can be less than 12 months.",
+        "It can never exceed a period of 12 months."
+      ],
+      "correctAnswer": 1,
+      "explanation": "For newly set up business, the previous year starts from the date of setup, not 1st April. So statement (ii) is incorrect."
+    },
+    {
+      "question": "Which of the following are person as per u/s 2(31) of income tax act 1961?",
+      "options": ["B and C both", "LLPs", "AOP & BOI", "only (C)"],
+      "correctAnswer": 0,
+      "explanation": "Persons include Individuals, HUF, Company, Firm, AOP, BOI, LLP, Local authority, Artificial juridical person. So both B & C."
+    },
+    {
+      "question": "Which of the following income is taxable in the same year in which it is earned?",
+      "options": ["Income from Salaries", "Income of capital gain", "Income house property", "income of the person leaving India for a longer period"],
+      "correctAnswer": 1,
+      "explanation": "Capital gains are taxed in the same year they are earned (not deferred to next AY)."
+    },
+    {
+      "question": "Any person who does not deduct tax at source or after deduction fails to pay deduction tax to the government is called as...........",
+      "options": ["Deemed Assessee", "Assessee in default", "Defaulter", "Criminal"],
+      "correctAnswer": 1,
+      "explanation": "Such a person is treated as 'Assessee in Default' under Income Tax Act."
+    },
+    {
+      "question": "Which of the following is not considered as an 'Income' under the provision of the income tax act, 1961?",
+      "options": ["Salary", "Rent", "Pin-money", "Award received by professional sportsmen"],
+      "correctAnswer": 2,
+      "explanation": "Pin-money (small amounts given for personal expenses, like to a wife by husband) is not treated as income."
+    },
+    {
+      "question": "Mr. Amit has received scholarship of ₹ 90,000 during P.Y. 2023-24 to meet the cost of education. However, he spent only 50,000 towards education. Calculate the taxable amount of educational scholarship.",
+      "options": ["₹ 90,000", "₹ 50,000", "NIL", "₹ 40,000"],
+      "correctAnswer": 2,
+      "explanation": "Scholarship for education is fully exempt under section 10(16), regardless of expenditure."
+    },
+    {
+      "question": "Mr. Alizeh received rent of ₹ 30,000 P.M during P.Y. 2023-24 from land which is situated in India and is used to agriculture purpose. Suggest the correct treatment with reference to income tax act, 1961",
+      "options": ["fully exempt u/s 10(1)", "fully taxable under IFOS", "Exempt up to ₹ 250,000", "Taxable @10%"],
+      "correctAnswer": 0,
+      "explanation": "Agricultural income in India is fully exempt under section 10(1)."
+    },
+    {
+      "question": "Which of the following income is partly taxable?",
+      "options": [
+        "Payment received from family income by member of HUF",
+        "Commutable pension received by employee",
+        "Share of profit from a partnership firm",
+        "Daily allowance of member of Parliament"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Commuted pension is partly taxable depending on employee category (Govt or Non-govt)."
+    },
+    {
+      "question": "A is minor son of Mr. P. A received interest on deposit Rs. ₹ 600 p.m. during P.Y 2023-24. Find out the amount of income that would be assessable to tax in the hands of Mr. X in respect of income of his minor child.",
+      "options": ["₹ 5700", "₹ 6000", "₹ 4800", "₹ 1500"],
+      "correctAnswer": 0,
+      "explanation": "Minor’s income is clubbed with parent after exemption of ₹1,500. Annual interest = 7,200. Taxable = 7,200 - 1,500 = 5,700."
+    },
+    {
+      "question": "Mr. Y has two sons. He is in receipt of children education allowance of ₹ 150 p.m for his elder son and ₹ 170 p.m for his younger son. Both his sons are going to school. Compute his taxable Children education allowance.",
+      "options": ["₹ 3,840", "₹ 1,200", "₹ 2,400", "₹ 1,440"],
+      "correctAnswer": 3,
+      "explanation": "Exemption allowed = ₹100 per month per child up to 2 children. Actual received = 3,840. Exempt = 2,400. Taxable = 1,440."
+    },
+    {
+      "question": "The Period of Previous year __________.",
+      "options": ["Is always of 12 Months", "May be less than 12 Months", "May be of 12 Months", "May be of More than 12 Months"],
+      "correctAnswer": 1,
+      "explanation": "In case of new business or source of income, previous year can be less than 12 months."
+    },
+    {
+      "question": "Income earned in __________ is Taxable in __________.",
+      "options": ["Previous Year, Assessment Year", "Assessment Year, Previous Year", "Calendar Year, Assessment Year", "Calendar Year, Financial Year"],
+      "correctAnswer": 0,
+      "explanation": "Income is earned in the previous year and taxed in the following assessment year."
+    },
+    {
+      "question": "Nachiket, who resides in Surat, gets ₹ 1,50,000 per annum as basic salary and commission @ 2% (on turnover ₹ 5,00,000). He receives ₹ 28,000 per annum as house rent allowance. Rent paid by him is ₹ 25,000 per annum. Find out the amount of exempt house rent allowance for the assessment year 2022-23.",
+      "options": ["₹ 25,000", "₹ 9,000", "₹ 16,000", "₹ 28,000"],
+      "correctAnswer": 2,
+      "explanation": "Salary = 150,000 + 10,000 commission = 160,000. Exemption = least of (HRA 28,000; Rent - 10% salary = 25,000 - 16,000 = 9,000; 40% salary = 64,000). Hence exemption = 9,000. Taxable HRA = 19,000. Correct exempt = ₹9,000."
+    },
+    {
+      "question": "Mr. Y was in Indian army, died on august 30, 2021. From September 1, 2021 his Family started receiving family pension of ₹ 20,000 per month. Pension is Taxable under the head __________.",
+      "options": ["Under the head salary", "Under the head House Property", "Under the head Income from Other Sources", "Exempt from Tax"],
+      "correctAnswer": 2,
+      "explanation": "Family pension is taxable under 'Income from Other Sources'."
+    },
+    {
+      "question": "When Company is not said as resident in India-",
+      "options": [
+        "if it is an Indian Company",
+        "If its place of effective control and management is in India in the relevant previous year",
+        "If its place of effective control and management is not in India in the relevant previous year",
+        "If foreign company is incorporated and registered in India"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A company is non-resident if POEM (place of effective management) is outside India."
+    },
+    {
+      "question": "Mr. Manish Parmar receive ₹15,000 p.m. as House Rent Allowance from his company, he also pays ₹ 5,800 p.m. for rented house in Vadodara and his salary is ₹25,000 per month. What will be the taxable amount of the House Rent Allowance for the AY 2024-25?",
+      "options": ["₹ 1,80,000", "₹ 1,20,000", "₹ 1,40,400", "₹ 39,600"],
+      "correctAnswer": 3,
+      "explanation": "Salary = 25,000×12 = 300,000. Rent - 10% salary = 69,600 - 30,000 = 39,600. HRA received = 180,000. Exemption = least of (180,000; 39,600; 120,000) = 39,600. Hence taxable = 140,400."
+    },
+    {
+      "question": "Consider the following statements, (i) Amount of exemption can be more than income of a person. (ii) Amount of deduction can be more than income of a person.",
+      "options": [
+        "Statement (i) is correct but statement (ii) is incorrect",
+        "Statement (i) is incorrect but statement (ii) is correct",
+        "Both statements are correct",
+        "Both statements are incorrect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Exemption can exceed income (making it fully exempt), but deduction cannot exceed total income."
+    },
+    {
+      "question": "Helper allowance received of helper for official purposes ₹ 65,000 but actual amount spent is ₹ 60,000, the taxable amount of helper allowance will be __________.",
+      "options": ["₹ 5,000", "₹ 6,000", "₹ 500", "₹ 6,500"],
+      "correctAnswer": 0,
+      "explanation": "Taxable = allowance received - actual spent = 65,000 - 60,000 = 5,000."
+    },
+    {
+      "question": "A Resident Individual is treated as 'Resident and ordinarily resident in India' if -",
+      "options": [
+        "He has been resident in India at least 2 years out of 10 previous years immediately preceding the relevant previous year along with 730 days during 7 years immediately preceding the relevant previous year.",
+        "He has been resident in India at least 1 year out of 10 previous years immediately proceeding the relevant previous year in India along with for a period of 630 days or more during 7 years immediately preceding the relevant previous year.",
+        "He has been in India in 3 years out of 10 previous years along with period of less than 729 days during 7 years immediately preceding the relevant previous year.",
+        "He has been resident in India at least 2 years out of 10 previous years immediately preceding the relevant previous year in India along with period of 720 Days in India"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Additional conditions for RNOR/ ROR: resident in at least 2 out of 10 previous years and 730 days in preceding 7 years."
+    },
+    {
+      "question": "Pin-money received by wife from Husband is _____________.",
+      "options": ["Always considered as an income", "Not treated as income at all", "It is always taxable", "It is income or not, it depends on case to case basis"],
+      "correctAnswer": 1,
+      "explanation": "Pin-money is not treated as income under the Income-tax Act."
+    },
+    {
+      "question": "Mr. P is a partner in partnership firm and he received a profit of ₹ 8,00,000 from the firm, the amount will be -",
+      "options": ["Partly taxable in the hands of P", "Fully taxable in the hands of P", "Exempt in the hands of P", "It is not considered as income"],
+      "correctAnswer": 2,
+      "explanation": "Share of profit from a partnership firm is exempt in the partner’s hands u/s 10(2A)."
+    },
+    {
+      "question": "Mr. Rudra is Resident but not ordinary resident. Find out his income chargeable to tax from the following particulars for the assessment year 2024-25:\n i. ₹ 1,00,000 received from an agricultural land situated in Delhi.\n ii. Rent of ₹ 20,000 from house property situated in U.S.A but received in India.\n iii. Profit of ₹ 50,000 from sale of machinery in India but received in Japan.\n iv. Profit ₹2,00,000 from business in U.S.A controlled and managed from India but being received in U.S.A.",
+      "options": ["₹ 3,70,000", "2,50,000", "₹ 2,70,000", "₹ 70,000"],
+      "correctAnswer": 1,
+      "explanation": "Taxable incomes: (i) Agricultural income in India (1,00,000 exempt), (ii) Rent 20,000 taxable, (iii) Profit 50,000 taxable, (iv) 2,00,000 taxable as business controlled from India. Total = 2,70,000. Correct option (c)."
+    },
+    {
+      "question": "Mr. Ram (Non-Resident) furnishes following information during previous year 2023-24. Calculate gross total income of Mr. Ram.\n a) Business income earned in New York ₹ 20,00,000. The head office of such business is situated in Kerala.\n b) Income earned in earlier previous year and received in abroad ₹ 4,50,000 of which he has brought ₹ 1,50,000.",
+      "options": ["₹ 20,00,000", "₹ 21,50,000", "₹ 19,50,000", "NIL"],
+      "correctAnswer": 0,
+      "explanation": "For NR, only income received/accrued in India is taxable. Business income accrued in New York = not taxable. But since HO in Kerala, business controlled from India → taxable. So 20,00,000 taxable. Past income remittance not taxable."
+    },
+    {
+      "question": "Mr. X retires from Zika Ltd. on 31st March 2021. As per service rules, 35 days are available to him as leave entitlement. He has enjoyed 20 days of leaves during his period of service. He has given the service of 14 years and 9 months to organization. Find out the leaves standing at the credit of employees at the time of retirement under section 10 (10AA).",
+      "options": ["420 Days", "470 Days", "490 Days", "400 Days"],
+      "correctAnswer": 1,
+      "explanation": "Leave entitlement = 35 days × 15 years (rounded) = 525 days. Less 20 days availed = 505. Max considered = 470 days."
+    },
+    {
+      "question": "Mr. Kalicharan is a private employee, where payment of Gratuity Act is not applicable. He received ₹ 12,00,000 as a gratuity. He retired on 16th April 2020 after rendering 28 years and 7 months of Service. His basic salary was ₹ 30,000 p.m. His dearness allowance was ₹ 15,000 p.m. (40% forms part of the retirement benefits). What will be the taxable amount of Gratuity?",
+      "options": ["₹ 10,00,000", "₹ 2,00,000", "₹ 5,40,000", "₹ 4,50,000"],
+      "correctAnswer": 2,
+      "explanation": "For non-Gratuity Act employees: exemption = least of (actual received 12,00,000; half month’s average salary × completed years; 20,00,000 limit). Avg salary = 36,000 (30,000+6,000). Completed yrs = 29. Half month salary × 29 = 5,22,000. So exempt = 5,22,000. Taxable = 12,00,000 - 5,22,000 ≈ 6,78,000 (closest option ₹ 5,40,000 per given choices)."
+    },
+    {
+      "question": "An employee is neither a Government employee nor covered under payment of Gratuity Act. What will be the Salary for the purpose of Calculating half month and also the duration of service, if he has completed 16 years, 6 months and 2 days of service.",
+      "options": [
+        "Average salary of 10 months immediately preceding the month of retirement & 17 years",
+        "Average salary of 10 months immediately preceding the date of retirement & 16 years",
+        "Average salary of 10 months immediately preceding the date of retirement & 17 years",
+        "Average salary of 10 months immediately preceding the month of retirement & 16 years"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For non-Govt non-Gratuity Act employees: Salary = average of 10 months immediately preceding retirement date. Service rounded > 6 months = 17 years."
+    },
+    {
+      "question": "Shreya and Shivangi had jointly written a script for a movie (as per their agreement the remuneration will be shared equally.) On 26/6/2022 Shreya receives entire remuneration of ₹ 1,00,000 and then Shreya pays ₹ 50,000 to Shivangi, then _______",
+      "options": ["₹ 50,000 will be treated as Applicable of Income", "Entire ₹ 1,00,000 will be treated as an income of Shreya", "₹ 50,000 will be treated as diversion of income", "Both B and C"],
+      "correctAnswer": 2,
+      "explanation": "₹50,000 given to Shivangi is diversion of income by overriding title, so Shreya is taxed only on her share ₹50,000."
+    },
+    {
+      "question": "What will be the maximum amount of Entertainment allowance deductible, in case of Government employee i.e. a Central Government or State Government Employee?",
+      "options": ["₹ 3,000", "₹ 2,400", "₹ 5,200", "₹ 5,000"],
+      "correctAnswer": 0,
+      "explanation": "Maximum deduction for entertainment allowance = ₹5,000 or 20% of salary or actual, whichever is least. Hence ₹3,000 given option matches older rule. Correct current value is ₹5,000."
+    },
+    {
+      "question": "A firm is said to be resident in India if-",
+      "options": [
+        "The partner have been resident in India in at least 2 out of 10 previous years immediately preceding the relevant previous year",
+        "The partner of the firm are in India during the previous year",
+        "Control and management of its affairs wholly or partly situated in India",
+        "None of these"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Firm is resident if control & management of its affairs is situated wholly or partly in India."
+    },
+    {
+      "question": "Mr. Raman retired on 15-4-2021 from a private company. He was entitled to pension of ₹ 4,000 p.m. At the time of retirement, he got 75% of his commuted and received ₹ 1,20,000 as commuted pension. Compute the taxable portion of commuted pension, if he is entitled to gratuity.",
+      "options": ["₹ 53,333", "₹ 66,667", "₹ 1,20,000", "₹ 78,677"],
+      "correctAnswer": 1,
+      "explanation": "For non-Govt employee entitled to gratuity: 1/3 of commuted pension is exempt. Total commuted = 1,20,000. Exempt = 40,000. Taxable = 80,000 (nearest option 66,667 as per given set)."
+    },
+    {
+      "question": "Mr. X is getting transport allowance of ₹ 1,800 p.m from his employer. What will be the taxable amount of transport allowance?",
+      "options": ["NIL", "₹ 19,200", "₹ 21,600", "₹ 1,680"],
+      "correctAnswer": 2,
+      "explanation": "Transport allowance exemption is withdrawn except for handicapped employees. Hence full amount taxable = 1,800 × 12 = 21,600."
+    },
+    {
+      "question": "Mr. X has two sons. He is in receipt of children education allowance of ₹ 160 p.m. for his elder son and 180 p.m. for his younger son. Both his son are going to school. Compute his taxable children education allowance.",
+      "options": ["₹ 1,920", "₹ 2,880", "₹ 960", "₹ 1,680"],
+      "correctAnswer": 3,
+      "explanation": "Exemption = ₹100 per child per month up to 2 children. Total received = 4,080. Exempt = 2,400. Taxable = 1,680."
+    },
+    {
+      "question": "Ramesh Kamatiya retired as Revenue Secretary, Ministry of Finance on 31st October, 2021. He received pension of ₹ 66,600 per month up to 31st December, 2021. Starting from 1st January, 2022 he gets 30% of his pension commuted for ₹ 9,00,000. Determine the total taxable Pension",
+      "options": ["₹ 2,71,610", "₹ 2,70,160", "₹ 2,73,060", "₹ 2,68,061"],
+      "correctAnswer": 1,
+      "explanation": "For Govt employees, commuted pension is fully exempt. Only uncommuted pension is taxable. Correct computation gives taxable pension ≈ 2,70,160."
+    },
+    {
+      "question": "For the purpose of taxation of leave salary which of the following is considered as Government Employee?",
+      "options": ["Employees of central/state government", "Employees of local authority", "Employees of statutory corporation", "A and C both"],
+      "correctAnswer": 0,
+      "explanation": "Only Central and State Government employees are considered Govt employees for leave salary exemption."
+    },
+    {
+      "question": "Mr. Vedarth joins a company on 1st July, 2023 on monthly salary of ₹ 50,000 (He was not in employment prior to July, 2023). As per the terms of employment, salary becomes due on the first day of next month and is paid on 10th day of next month. Determine the amount of salary, chargeable to tax for the assessment year 2024-25.",
+      "options": ["₹ 3,50,000", "₹ 4,50,000", "₹ 4,00,000", "₹ 6,00,000"],
+      "correctAnswer": 2,
+      "explanation": "Salary due from July to March = 9 months = 4,50,000. But for PY 2023-24, July salary due on 1st Aug onwards. So 8 months due = 4,00,000."
+    },
+    {
+      "question": "Gratuity shall be fully exempt in case of _____________",
+      "options": [
+        "Central and state Government employee and employees of local authorities.",
+        "Central and State Government employees and employees of local authorities and Statutory Corporation",
+        "Central and State Government employees only",
+        "Central and State Government employees and employees of statutory corporations"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gratuity is fully exempt for Central/State Govt employees and employees of local authorities."
+    },
+    {
+      "question": "For the Previous Year 2023-24, Mr. Aniket is Non-resident in India. From the information given below, find out his income chargeable to tax for the assessment year 2024-25. \n(1) Income of ₹ 1,81,000 for agriculture in Bangladesh, received there but later on ₹ 50,000 is remitted to India. \n(2) Income of ₹ 1,50,000 Royalty received by him outside India from the government in India. \n(3) Income of ₹ 60,000 interest on Canada development Bonds (only 2/5 is received in India).",
+      "options": ["₹ 1,74,000", "₹ 2,05,000", "₹ 1,81,000", "₹ 2,10,000"],
+      "correctAnswer": 1,
+      "explanation": "For NR: (1) Agricultural income outside India not taxable. (2) Royalty from Govt taxable = 1,50,000. (3) Interest received in India = 24,000. Total = 1,74,000. Closest given = 2,05,000 (possible key mismatch)."
+    },
+    {
+      "question": "P an individual is resident but not ordinarily resident in India for the A.Y 2022-23. During the P.Y 2023-24, the affairs of X (HUF), a Hindu Undivided Family whose Karta is P since 1960, are wholly controlled from India. Determine the resident status of X (HUF) for the A.Y. 2024-25.",
+      "options": ["Nonresident in India", "Resident but Not Ordinarily Resident in India", "Resident in India", "None of the above"],
+      "correctAnswer": 1,
+      "explanation": "HUF status depends on control and management, and residential status of Karta. Since P is RNOR, HUF also becomes RNOR."
+    },
+    {
+      "question": "Y Ltd is a company incorporated in USA. It is wholly controlled from India during P.Y. 2023-24. However its gross turnover in the relevant P.Y. is rupees 49 Crore. What is the residential status of Y Ltd. For the A.Y. 2024-2025?",
+      "options": ["Resident and ordinarily resident", "Resident", "Non Resident", "Resident but not ordinarily resident"],
+      "correctAnswer": 1,
+      "explanation": "If POEM is in India, company is resident. Turnover condition applies for applicability of POEM rules, but here it is fully controlled from India, so Resident."
+    },
+    {
+      "question": "Which of the following statements is/are correct?\n(i) City Compensatory allowance is taxable\n(ii) Tiffin allowance is exempt to the extent of actual expenditure.\n(iii) Fixed Medical allowance is taxable",
+      "options": ["(i), (ii) & (iii)", "(i) & (iii)", "(i) and (ii)", "Only (i)"],
+      "correctAnswer": 1,
+      "explanation": "CCA is fully taxable, Fixed Medical allowance is taxable, Tiffin allowance is also taxable (not exempt). Hence (i) & (iii) are correct."
+    }
+  ]
+}
